@@ -11,7 +11,7 @@ import (
 	reflect "reflect"
 
 	gomock "go.uber.org/mock/gomock"
-	api "github.com/typesense/typesense-go/typesense/api"
+	api "github.com/sarthak333/typesense-go/typesense/api"
 )
 
 // MockAPIClientInterface is a mock of APIClientInterface interface.

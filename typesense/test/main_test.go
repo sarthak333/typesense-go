@@ -7,7 +7,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/typesense/typesense-go/typesense"
+	"github.com/sarthak333/typesense-go/typesense"
 )
 
 var typesenseClient *typesense.Client

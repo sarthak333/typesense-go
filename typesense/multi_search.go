@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/typesense/typesense-go/typesense/api"
+	"github.com/sarthak333/typesense-go/typesense/api"
 )
 
 type MultiSearchInterface interface {

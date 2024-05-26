@@ -13,9 +13,9 @@ import (
 
 	"go.uber.org/mock/gomock"
 	"github.com/stretchr/testify/assert"
-	"github.com/typesense/typesense-go/typesense/api"
-	"github.com/typesense/typesense-go/typesense/api/pointer"
-	"github.com/typesense/typesense-go/typesense/mocks"
+	"github.com/sarthak333/typesense-go/typesense/api"
+	"github.com/sarthak333/typesense-go/typesense/api/pointer"
+	"github.com/sarthak333/typesense-go/typesense/mocks"
 )
 
 type eqReaderMatcher struct {

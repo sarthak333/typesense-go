@@ -12,8 +12,8 @@ import (
 
 	"github.com/testcontainers/testcontainers-go"
 	"github.com/testcontainers/testcontainers-go/wait"
-	"github.com/typesense/typesense-go/typesense"
-	"github.com/typesense/typesense-go/typesense/api"
+	"github.com/sarthak333/typesense-go/typesense"
+	"github.com/sarthak333/typesense-go/typesense/api"
 )
 
 var typesenseC testcontainers.Container

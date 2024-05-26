@@ -7,7 +7,7 @@ import (
 
 	"go.uber.org/mock/gomock"
 	"github.com/stretchr/testify/assert"
-	"github.com/typesense/typesense-go/typesense/api/circuit/mocks"
+	"github.com/sarthak333/typesense-go/typesense/api/circuit/mocks"
 )
 
 func newHTTPRequest(t *testing.T) *http.Request {
