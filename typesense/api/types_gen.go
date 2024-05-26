@@ -170,6 +170,7 @@ type Field struct {
 	Optional *bool   `json:"optional,omitempty"`
 	Sort     *bool   `json:"sort,omitempty"`
 	Type     string  `json:"type"`
+	Stem     *bool   `json:"stem,omitempty"`
 }
 
 // HealthStatus defines model for HealthStatus.
